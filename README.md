@@ -30,25 +30,6 @@ One year as a Data Analyst at Softmize taught me the hardest part isn't the SQL 
 
 ---
 
-## 🚀 Featured Work
-
-### 📊 Global Healthcare Spending vs Life Expectancy &nbsp;·&nbsp; *Tableau Story*
-A 16-view interactive dashboard analyzing 193 countries (2000 to 2015) using World Bank and WHO data. Surfaced the narrowing developing-world life expectancy gap (64.6 → 69.7 years) and the spending-outcome disconnect in high-income economies.
-👉 [Live Dashboard](https://public.tableau.com/app/profile/ayushibutani/viz/FA550DataVisualizationFinalProject-1/Story1)
-
-### 🌾 Crop Recommendation System &nbsp;·&nbsp; *99% Accuracy, Published Research*
-End-to-end ML system (XGBoost + Flask + React) recommending crops based on soil and weather inputs across 7 features and 22 crop categories. Compared Naive Bayes, Decision Tree, Random Forest, and XGBoost with cross-validation and hyperparameter tuning. Published in Gradiva Journal.
-👉 [Repository](https://github.com/AyushiButani/Crop-Recommendation-System) &nbsp;·&nbsp; [Research Paper (PDF)](https://github.com/AyushiButani/Crop-Recommendation-System/blob/main/Crop_Recommendation_Research_Paper.pdf)
-
-### 🌍 Climate Change vs Global Food Supply &nbsp;·&nbsp; *R² = 0.982*
-Merged 4 real-world datasets (FAO + World Bank) across 104 countries and 23 years, processing 37,500+ rows. Trained XGBoost, Decision Tree, and LSTM models with GridSearchCV and KerasTuner. XGBoost won, with SHAP interpretability projecting 15% yield sensitivity under adverse climate scenarios.
-👉 [Repository](https://github.com/AyushiButani/Impact-of-Climate-on-Global-Food-Supply)
-
-### 💊 Drug Side-Effect Prediction &nbsp;·&nbsp; *Multi-label Classification, 1,400+ Drugs*
-Built a multi-label classification model predicting 5,800+ adverse drug reactions across 1,400+ drugs. Handled severely imbalanced healthcare data with precision-recall evaluation. Achieved Micro PR-AUC = 0.36 with SHAP explainability for drug-safety analysis. Stack: ChemBERTa, GNNs, scikit-learn.
-
----
-
 ## 💼 Experience
 
 **Data Analyst @ Softmize Infotech** &nbsp;·&nbsp; *Jun 2023 to May 2024*
